@@ -8,4 +8,4 @@ React 블로그 프로젝트
 4.상세내용 보기
 5.제목 수정(미완, 첫번째 글만 수정되는 방식)
 
-https://https://gomlv.github.io/
+https://gomlv.github.io/
